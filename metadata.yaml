@@ -1,16 +1,21 @@
 _repo: Narrative-of-a-Recent-Imprisonment-in-China-after-the-Wreck-of-the-Kite_60335
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Greenhill, C. H.
     gutenberg_agent_id: '50904'
     url: http://www.gutenberg.org/2009/agents/50904
+covers:
+- cover_type: archival
+  image_path: 60335-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, John Lee
     gutenberg_agent_id: '50903'
     url: http://www.gutenberg.org/2009/agents/50903
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60335#Narrative-of-a-Recent-Imprisonment-in-China-after-the-Wreck-of-the-Kite
 gutenberg_issued: '2019-09-21'
 gutenberg_type: Text
 identifiers:
