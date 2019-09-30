@@ -1,0 +1,29 @@
+_repo: Narrative-of-a-Recent-Imprisonment-in-China-after-the-Wreck-of-the-Kite_60335
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Greenhill, C. H.
+    gutenberg_agent_id: '50904'
+    url: http://www.gutenberg.org/2009/agents/50904
+creator:
+  author:
+    agent_name: Scott, John Lee
+    gutenberg_agent_id: '50903'
+    url: http://www.gutenberg.org/2009/agents/50903
+description: ''
+gutenberg_issued: '2019-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'China -- Social life and customs -- 1644-1912'
+- !lcsh 'Prisoners of war -- China -- 19th century'
+- !lcsh 'China -- Description and travel'
+- GITenberg
+title: Narrative of a Recent Imprisonment in China after the Wreck of the Kite
+url: http://www.gutenberg.org/ebooks/60335
